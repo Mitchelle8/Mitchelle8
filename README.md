@@ -6,5 +6,19 @@
 ---
 
 <div align="center">
+
+✨ **Security Engineer**
+
+🌱 I'm currently learning **Penetration Testing, Web Application Hacking, Reverse Engineering**
+
+💬 Ask me about **Cybersecurity, Cryptography, CTFs, Linux, Networking**
+
+💡 Interested Fields: **Malware Analysis, Network Security, Cryptography**
+
+</div>
+
+---
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon-green.png" alt="Neon Line" />
 </div>
